@@ -1,0 +1,34 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+/*list product*/
+.list-product-title{
+	width: 100%;
+	text-transform: uppercase;
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+.list-product-subtitle{
+	width: 100%;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+/*product card*/
+.card-product{
+	width: 100%;
+	margin-left: 5px;
+	margin-right: 5px;
+	overflow: hidden;	
+}
+.form_box .form
+{
+	border: 1px solid black;
+	background-color: honeydew;
+}
+.sub-container{
+	padding-top: 30px;
+}
